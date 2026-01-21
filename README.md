@@ -1,5 +1,6 @@
 # ELT_Ecommerce
 Projeto guiado pela Imersao da Jornada de Dados
+Tratamento de dados de um arquivo csv, tendo todo o ELT até um agente de IA n8n
 # 📊 ELT_Ecommerce
 
 Projeto guiado pela **Imersão da Jornada de Dados** — uma **pipeline de dados ELT** para processar, transformar e analisar dados de e-commerce.
